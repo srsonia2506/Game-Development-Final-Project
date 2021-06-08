@@ -1,3 +1,0 @@
-# CSS385 Group Project Websites
-
-It's looking a little bare at the moment...
